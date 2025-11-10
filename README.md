@@ -1,1 +1,1 @@
-This a project where I was visualizing a Probability Mass Function using the library matplotlib.
+This a project where I visualizied a Probability Mass Function using the library matplotlib.
